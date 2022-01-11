@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T05:56:34.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1J48MiaDQ2YMTcGq2VEg" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T05:59:38.782Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="prACKiLk8HMpUQCtrpCe" version="15.7.3" type="github">
   <diagram id="S4AvFaS1FlO98KIJ39zW" name="Page-1">
     <mxGraphModel dx="1186" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="aFzCnFoMK0MhnVJln1m9-4" value="对比" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="300" y="400" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aFzCnFoMK0MhnVJln1m9-5" value="总结（yeah..）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="300" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="aFzCnFoMK0MhnVJln1m9-5" value="总结（yeah..）【记得收尾】" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="300" y="510" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
